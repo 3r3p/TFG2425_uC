@@ -1,4 +1,4 @@
-# ESP32 Smart Home
+# TFG2425 - Repositorio público oficial
 
 Este repositorio contiene el firmware de varios nodos ESP32 interconectados usando ESP-NOW y Firebase. Cada nodo tiene una función específica dentro de una red domótica.
 
